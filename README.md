@@ -13,8 +13,5 @@ Desarrollador de Software enfocado en crear soluciones digitales limpias, eficie
 * 🌱 **Aprendizaje:** Profundizando en la optimización de contenedores y mejores prácticas de arquitectura de software.
 * ⚡ **Dato curioso:** Me apasiona resolver problemas complejos y transformar café en código eficiente.
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de Victorio](https://github-readme-stats.vercel.app/api?username=sebamontedoro&show_icons=true&theme=transparent&locale=es)
-
 ### 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorio-montedoro/)
